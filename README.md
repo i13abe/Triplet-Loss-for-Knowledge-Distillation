@@ -1,5 +1,6 @@
 # Triplet Loss for Knowledge Distillation
 An implementation of "**Triplet Loss for Knowledge Distillation**" in Pytorch.
+The paper is here https://arxiv.org/abs/2004.08116
 
 ## How to use
 1. clone the all files to a directory
